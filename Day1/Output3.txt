@@ -1,6 +1,6 @@
 Enter a number1 : 
 Enter a number2 : 
 Addition of two numbers is  21
-Subraction of two numbers is  21
-Product of two numbers is  21
-Division of two numbers is  21
+Subraction of two numbers is  -1
+Product of two numbers is  0.9090909090909091
+Division of two numbers is  110
