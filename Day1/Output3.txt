@@ -1,0 +1,6 @@
+Enter a number1 : 
+Enter a number2 : 
+Addition of two numbers is  21
+Subraction of two numbers is  21
+Product of two numbers is  21
+Division of two numbers is  21
